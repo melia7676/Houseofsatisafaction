@@ -10,11 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
-},
+  
 
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
